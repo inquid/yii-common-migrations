@@ -2,7 +2,7 @@
 
 use yii\db\Schema;
 
-class m180914_210101_ERP extends \yii\db\Migration
+class vendedores extends \yii\db\Migration
 {
     public function up()
     {
